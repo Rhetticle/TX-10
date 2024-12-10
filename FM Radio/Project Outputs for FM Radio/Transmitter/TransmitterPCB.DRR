@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TransmitterPCB.PcbDoc   10/12/2024  4:04:44 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TransmitterPCB-RoundHoles.TXT
+ASCII SlotHoles File : TransmitterPCB-SlotHoles.TXT
+EIA File   : TransmitterPCB.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             7         PTH        1.60inch (40.52mm)
+T2      23mil (0.584mm)                                           Round             2         PTH        0.06inch (1.40mm)
+T3      24mil (0.599mm)                                           Slot              2         PTH        0.61inch (15.43mm)
+T4      28mil (0.711mm)                                           Round             13        PTH        2.28inch (57.89mm)
+T5      34mil (0.851mm)                                           Round             2         PTH        0.20inch (5.00mm)
+T6      40mil (1.021mm)                                           Round             2         PTH        0.10inch (2.54mm)
+T7      47mil (1.199mm)                                           Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              29
+
+Total Processing Time (hh:mm:ss) : 00:00:00

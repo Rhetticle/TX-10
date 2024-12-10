@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ReceiverPCB.PcbDoc   10/12/2024  4:08:25 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ReceiverPCB-RoundHoles.TXT
+ASCII SlotHoles File : ReceiverPCB-SlotHoles.TXT
+EIA File   : ReceiverPCB.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             14        PTH        3.77inch (95.74mm)
+T2      24mil (0.599mm)                                           Slot              2         PTH        0.61inch (15.43mm)
+T3      28mil (0.711mm)                                           Round             72        PTH        15.06inch (382.53mm)
+T4      34mil (0.851mm)                                           Round             2         PTH        0.20inch (5.00mm)
+T5      40mil (1.021mm)                                           Round             2         PTH        0.10inch (2.54mm)
+T6      87mil (2.2mm)                                             Round             3         PTH        1.14inch (28.88mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              95
+
+Total Processing Time (hh:mm:ss) : 00:00:00
